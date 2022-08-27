@@ -1,0 +1,150 @@
+[2022-08-27T13:12:15.465] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:12:15.466] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:21.062] [WARN] archivoWarn - localhost:8080/logic/logicOfProducts.js
+[2022-08-27T13:12:21.062] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:21.080] [WARN] archivoWarn - localhost:8080/logic/logicOfChat.js
+[2022-08-27T13:12:21.081] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:21.244] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:12:21.244] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:22.309] [WARN] archivoWarn - localhost:8080/logic/logicOfProducts.js
+[2022-08-27T13:12:22.310] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:22.324] [WARN] archivoWarn - localhost:8080/logic/logicOfChat.js
+[2022-08-27T13:12:22.325] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:22.483] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:12:22.484] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:25.243] [WARN] archivoWarn - localhost:8080/logic/logicOfProducts.js
+[2022-08-27T13:12:25.244] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:25.260] [WARN] archivoWarn - localhost:8080/logic/logicOfChat.js
+[2022-08-27T13:12:25.261] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:12:26.357] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:12:26.357] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:44.955] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T13:13:44.956] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:44.964] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T13:13:44.965] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:45.132] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:13:45.133] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:45.664] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T13:13:45.665] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:45.670] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T13:13:45.671] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:45.842] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:13:45.842] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:48.579] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T13:13:48.579] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:48.587] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T13:13:48.588] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:13:48.763] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:13:48.763] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:20.395] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T13:15:20.396] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:20.425] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T13:15:20.426] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:20.600] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:15:20.601] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:21.055] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T13:15:21.056] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:21.063] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T13:15:21.064] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:21.239] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:15:21.240] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:25.506] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T13:15:25.507] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:25.515] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T13:15:25.516] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:15:25.703] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:15:25.703] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:49.979] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T13:16:49.980] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:49.996] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T13:16:49.997] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:50.162] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:16:50.162] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:51.426] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T13:16:51.427] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:51.433] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T13:16:51.433] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:51.598] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:16:51.598] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:55.949] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T13:16:55.950] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:55.955] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T13:16:55.956] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T13:16:56.137] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T13:16:56.138] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:26.098] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T14:01:26.099] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:26.111] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T14:01:26.111] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:26.288] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:01:26.289] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:26.513] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T14:01:26.513] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:26.517] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T14:01:26.518] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:26.698] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:01:26.698] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:32.020] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T14:01:32.021] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:32.027] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T14:01:32.028] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:01:32.291] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:01:32.292] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:23.203] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T14:08:23.203] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:23.384] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T14:08:23.385] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:23.554] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:08:23.555] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:26.679] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T14:08:26.679] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:26.784] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T14:08:26.785] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:26.952] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:08:26.953] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:31.681] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.mjs
+[2022-08-27T14:08:31.682] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:31.775] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.mjs
+[2022-08-27T14:08:31.775] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:08:32.003] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:08:32.003] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:12:37.689] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T14:12:37.690] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:12:37.704] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T14:12:37.704] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:12:37.895] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:12:37.896] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:12:38.744] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T14:12:38.746] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:12:38.828] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T14:12:38.829] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:12:39.004] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:12:39.005] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:13:51.062] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T14:13:51.063] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:13:51.147] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T14:13:51.149] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:13:51.327] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:13:51.328] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:06.535] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfProducts.js
+[2022-08-27T14:14:06.537] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:06.624] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T14:14:06.625] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:06.820] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:14:06.820] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:32.203] [WARN] archivoWarn - localhost:8080/servicios/logic/logicOfChat.js
+[2022-08-27T14:14:32.204] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:32.462] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:14:32.463] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:42.384] [WARN] archivoWarn - localhost:8080/servicios
+[2022-08-27T14:14:42.385] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:14:42.553] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:14:42.553] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:18:14.557] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:18:14.558] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:18:16.004] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:18:16.005] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:19:07.977] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:19:07.979] [WARN] archivoWarn - Metodo: GET
+[2022-08-27T14:19:16.252] [WARN] archivoWarn - localhost:8080/favicon.ico
+[2022-08-27T14:19:16.252] [WARN] archivoWarn - Metodo: GET
